@@ -1,0 +1,29 @@
+button {
+    padding: 5px;
+    justify-content: center;
+    color: cadetblue;
+    border-radius: 25px;
+    display: block;
+    margin-top: 5px;
+}
+
+h1 {
+    color: #3f51b5;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+span {
+    font-family: sans-serif;
+    color: darkblue;
+    background-color: white;
+    margin: 10px;
+    padding: 20px;
+    border: 1px;
+    border-color: aqua;
+}
+
+h2 {
+    style: blue;
+    text-align: center;
+}
